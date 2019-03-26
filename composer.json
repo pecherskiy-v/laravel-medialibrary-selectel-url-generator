@@ -14,7 +14,8 @@
     ],
     "require": {
         "php": ">=7.0",
-        "spatie/laravel-medialibrary": "^6.6"
+        "spatie/laravel-medialibrary": "^6.6",
+        "argentcrusade/flysystem-selectel": "^1.2"
     },
     "autoload": {
         "classmap": [
