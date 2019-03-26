@@ -1,0 +1,24 @@
+{
+    "name": "pecherskiy-v/laravel-medialibrary-selectel-url-generator",
+    "description": "Custom class generator URL to the package \"spatie/laravel-medialibrary\" to work with the disk \"Selectel\"",
+    "type": "library",
+    "license": "MIT",
+    "version": ".0.1",
+    "authors": [
+        {
+            "name": "Pecherskiy Valeriy",
+            "email": "pecherskiy.v@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0",
+        "spatie/laravel-medialibrary": "^7.6"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
