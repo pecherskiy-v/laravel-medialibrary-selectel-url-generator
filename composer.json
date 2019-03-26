@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "spatie/laravel-medialibrary": "^7.6"
+        "spatie/laravel-medialibrary": "^6.6"
     },
     "autoload": {
         "classmap": [
